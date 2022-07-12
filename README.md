@@ -1,5 +1,5 @@
 # Crytpo Coin Website
-The official website for the Crytpo Coin project. Live at [crytpo-coin.github.io](crytpo-coin.github.io). 
+The official website for the Crytpo Coin project. Live at [crytpo-coin.github.io](https://crytpo-coin.github.io/). 
 
 ### Cloning
 Use the below command to clone this repository. This will ensure the theme submodule is also cloned. 
