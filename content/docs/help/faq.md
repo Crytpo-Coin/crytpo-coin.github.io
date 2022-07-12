@@ -16,15 +16,16 @@ top = false
 
 ## What is the Crytpo-Coin?
 
-Crytpo-Coin, is a cryptocurrency project made by some Computer Science students to become familiar with blockchain technology.
-It is also our first project using the programming language rust.
+Crytpo-Coin, is a cryptocurrency project made by some Computer Science students to become familiar with lockchain technology.
+It is also our first project using the programming language Rust.
 
-To make Crytpo-Coin we have done several different things:
-- The (b)lockchain technology.
-- Proof-of-Stake (PoS) model.
+To make Crytpo-Coin we are looking into several things:
+
+- The lockchain technology itself
+- The proof-of-stake (PoS) model
 
 and plan to include 
-- Delegation.
+- Delegation
 
 ## Keyboard shortcuts for search?
 

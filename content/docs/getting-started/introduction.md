@@ -20,4 +20,4 @@ _This section will be updated soon._
 
 ## Help
 
-Get help on Doks. [Help →](/docs/help/faq/)
+Get help on Docs. [Help →](/docs/help/faq/)
