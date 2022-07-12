@@ -1,7 +1,10 @@
 # The URL the site will be built for
 base_url = "https://crytpo-coin.github.io/"
+title = "Crytpo-Coin"
 
 theme = "adidoks"
+
+default_language = "en"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
